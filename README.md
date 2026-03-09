@@ -1,16 +1,77 @@
-## Hi there 👋
+# Olá 👋, Eu sou Otavio Christ
 
-<!--
-**Otaviochrist/Otaviochrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Futuro desenvolvedor Back-end**  
+🇧🇷 Brasil
 
-Here are some ideas to get you started:
+Tenho um foco profundo em **arquitetura, desempenho, código limpo e soluções orientadas a negócios**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Aonde você me encontra
+
+<p align="left">
+  <a href="https://github.com/otaviochrist">
+    <img src="https://img.shields.io/badge/GitHub-otaviochrist-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/otavio_christ">
+    <img src="https://img.shields.io/badge/Instagram-@otavio_christ-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/otávio-henrique-christ">
+    <img src="https://img.shields.io/badge/LinkedIn-Otávio christ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 Oque eu faço
+
+-   🏗️ Ecossistema .NET & APIs
+-   ⚡ Performance e Escalabilidade
+-   🧩 Arquitetura de Sistemas
+-   🔐 Secure APIs & authentication
+-   🔐 Segurança e Identidade
+-   ⚙️ Integrações e Cloud
+-   📊 Dados e Análises
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+### DevOps & Tools
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=otaviochrist&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviochrist&layout=compact&theme=tokyonight" />
+</p>
+
+
+---
+
+
+🤝Sempre aberto a colaborações, parcerias e ideias inovadoras.
+
