@@ -16,7 +16,7 @@ Tenho um foco profundo em **arquitetura, desempenho, código limpo e soluções 
   <a href="https://instagram.com/otavio_christ">
     <img src="https://img.shields.io/badge/Instagram-@otavio_christ-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/otávio-henrique-christ">
+  <a href="https://linkedin.com/in/otávio-henrique-christ">
     <img src="https://img.shields.io/badge/LinkedIn-Otávio christ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
