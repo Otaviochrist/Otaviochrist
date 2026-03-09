@@ -57,15 +57,6 @@ Tenho um foco profundo em **arquitetura, desempenho, código limpo e soluções 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Otaviochrist&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otaviochrist&layout=compact&theme=tokyonight" />
-</p>
-
 
 ---
 
