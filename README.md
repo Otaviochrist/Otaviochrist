@@ -21,17 +21,6 @@ Tenho um foco profundo em **arquitetura, desempenho, código limpo e soluções 
   </a>
 </p>
 
----
-
-## 🧠 Oque eu faço
-
--   🏗️ Ecossistema .NET & APIs
--   ⚡ Performance e Escalabilidade
--   🧩 Arquitetura de Sistemas
--   🔐 Secure APIs & authentication
--   🔐 Segurança e Identidade
--   ⚙️ Integrações e Cloud
--   📊 Dados e Análises
 
 ---
 
@@ -47,8 +36,7 @@ Tenho um foco profundo em **arquitetura, desempenho, código limpo e soluções 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
 
 ### DevOps & Tools
 
