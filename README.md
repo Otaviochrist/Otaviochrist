@@ -18,13 +18,13 @@
 
 <br>
 
-Sou estudante de <strong>Ciência da Computação</strong> na UCS e estagiário de TI na <strong>Brasdiesel S/A</strong>, onde lido com ambientes corporativos reais no dia a dia.
+Sou estudante de <strong>Ciência da Computação</strong> na UCS e estagiário de TI na <strong>PlenaTech</strong>, onde lido com ambientes corporativos reais no dia a dia.
 
 <br>
 
 <ul>
   <li><strong>Formação:</strong> Ciência da Computação UCS & Técnico em Informática CETEC</li>
-  <li><strong>Atuando em:</strong> Suporte de TI corporativo</li>
+  <li><strong>Atuando em:</strong> Desenvolvedor</li>
   <li><strong>Localização:</strong> Caxias do Sul - RS </li>
 </ul>
 
