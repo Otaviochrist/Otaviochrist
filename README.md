@@ -1,6 +1,6 @@
 <div align="center">
 
-# Otávio Henrique Christ
+<img src="./banner.png" alt="Otávio Henrique Christ — Desenvolvedor Back-end" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=8866C4&center=true&vCenter=true&width=650&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Computer+Science+Student;Estagi%C3%A1rio+de+TI+na+PlenaTech;IT+Intern+at+PlenaTech;Java+%7C+C%23+%7C+PHP+%7C+JavaScript)](https://git.io/typing-svg)
 
@@ -122,21 +122,6 @@ I'm a **Computer Science** student at UCS and an IT intern at **PlenaTech**, whe
 | [Web Survey Form](https://github.com/Otaviochrist/survey-form) | Responsive page built with HTML5 & CSS3, following semantic and accessibility best practices. | `HTML5` `CSS3` |
 
 </details>
-
-<br>
-
-## GitHub stats
-
-<table align="center">
-<tr>
-<td><img src="https://streak-stats.demolab.com?user=Otaviochrist&hide_border=true&background=00000000&ring=8866C4&fire=8866C4&currStreakLabel=8866C4&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" alt="GitHub Streak" width="100%"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Otaviochrist&show_icons=true&hide_border=true&bg_color=00000000&title_color=8866C4&icon_color=8866C4&text_color=8B949E&rank_icon=percentile" alt="GitHub Stats" width="100%"/></td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Otaviochrist&hide_border=true&bg_color=00000000&color=8B949E&line=8866C4&point=8866C4&area=true&area_color=8866C4" alt="Activity Graph" width="95%"/>
-</div>
 
 <br>
 
