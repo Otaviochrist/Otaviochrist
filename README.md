@@ -14,8 +14,6 @@
 > *"Curioso por natureza, desenvolvedor por escolha."*
 > *"Curious by nature, developer by choice."*
 
-<sub>🌐 Conteúdo bilíngue — abra <b>"🇺🇸 English version"</b> em cada seção para ler em inglês.<br>Bilingual content — open <b>"🇺🇸 English version"</b> under each section to read it in English.</sub>
-
 </div>
 
 <br>
@@ -29,22 +27,6 @@ Sou estudante de **Ciência da Computação** na UCS e estagiário de TI na **Pl
 <br>
 
 I'm a **Computer Science** student at UCS and an IT intern at **PlenaTech**, where I work hands-on with real corporate environments every day. I enjoy understanding how things work under the hood and turning logic into practical solutions.
-
-</details>
-
-<br>
-
-## Formação
-
-- **Ciência da Computação** — Universidade de Caxias do Sul (UCS) · *em andamento*
-- **Técnico em Informática** — CETEC · *concluído*
-
-<details>
-<summary>🇺🇸 English version</summary>
-<br>
-
-- **Computer Science** — University of Caxias do Sul (UCS) · *in progress*
-- **IT Technician** — CETEC · *completed*
 
 </details>
 
@@ -70,6 +52,22 @@ I'm a **Computer Science** student at UCS and an IT intern at **PlenaTech**, whe
 <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub"/>
 <img src="https://skillicons.dev/icons?i=idea" height="42" alt="IntelliJ IDEA"/>
 <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="VS Code"/>
+
+<br>
+
+## Formação
+
+- **Ciência da Computação** — Universidade de Caxias do Sul (UCS) · *em andamento*
+- **Técnico em Informática** — CETEC · *concluído*
+
+<details>
+<summary>🇺🇸 English version</summary>
+<br>
+
+- **Computer Science** — University of Caxias do Sul (UCS) · *in progress*
+- **IT Technician** — CETEC · *completed*
+
+</details>
 
 <br>
 
