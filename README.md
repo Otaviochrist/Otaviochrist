@@ -78,8 +78,7 @@ I'm a **Computer Science** student at UCS and an IT intern at **PlenaTech**, whe
 - Trilha de Aprendizagem Java *(Coddy)*
 - Trilha de Aprendizagem C# *(Coddy)*
 - Responsive Web Design *(freeCodeCamp)*
-- Estudo dirigido avançado — POO (Programação Orientada a Objetos) & PHP
-- Curso prático de POO em PHP
+- [POO em PHP rumo ao Adianti](https://github.com/Otaviochrist/OOP-adiant-php-) — caderno completo (classes, relações, herança, Adapter/Facade, SQL e cadastro HTML)
 
 **Concluído**
 - Python Básico *(Fundação Bradesco)*
@@ -93,8 +92,7 @@ I'm a **Computer Science** student at UCS and an IT intern at **PlenaTech**, whe
 - Java Learning Path *(Coddy)*
 - C# Learning Path *(Coddy)*
 - Responsive Web Design *(freeCodeCamp)*
-- Advanced self-study — OOP (Object-Oriented Programming) & PHP
-- Hands-on PHP OOP course
+- [PHP OOP toward Adianti](https://github.com/Otaviochrist/OOP-adiant-php-) — full workbook (classes, relations, inheritance, Adapter/Facade, SQL, and HTML forms)
 
 **Completed**
 - Python Basics *(Fundação Bradesco)*
@@ -109,6 +107,7 @@ I'm a **Computer Science** student at UCS and an IT intern at **PlenaTech**, whe
 |---|---|---|
 | [Calculadora de Macronutrientes](https://github.com/Otaviochrist/macro-calculator) | Aplicação em console (Java) que calcula proteínas, carboidratos e gorduras com base nas metas calóricas do usuário. | `Java` |
 | [Formulário de Pesquisa Web](https://github.com/Otaviochrist/survey-form) | Página responsiva construída com HTML5 e CSS3, seguindo boas práticas de semântica e acessibilidade. | `HTML5` `CSS3` |
+| [POO em PHP · Adianti](https://github.com/Otaviochrist/OOP-adiant-php-) | Caderno de estudos de POO em PHP (do `new` ao módulo 3: HTML + Postgres), preparação para o Adianti Framework. | `PHP` `SQL` `HTML` `CSS` |
 
 <details>
 <summary>🇺🇸 English version</summary>
@@ -118,6 +117,7 @@ I'm a **Computer Science** student at UCS and an IT intern at **PlenaTech**, whe
 |---|---|---|
 | [Macronutrient Calculator](https://github.com/Otaviochrist/macro-calculator) | Java console application that calculates protein, carbs, and fat based on the user's calorie goals. | `Java` |
 | [Web Survey Form](https://github.com/Otaviochrist/survey-form) | Responsive page built with HTML5 & CSS3, following semantic and accessibility best practices. | `HTML5` `CSS3` |
+| [PHP OOP · Adianti](https://github.com/Otaviochrist/OOP-adiant-php-) | PHP OOP workbook (from `new` to module 3: HTML + Postgres), preparation for the Adianti Framework. | `PHP` `SQL` `HTML` `CSS` |
 
 </details>
 
