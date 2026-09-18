@@ -39,6 +39,8 @@ I'm a **Computer Science** student at UCS and an IT intern at **PlenaTech**, whe
 <img src="https://skillicons.dev/icons?i=java" height="42" alt="Java"/>
 <img src="https://skillicons.dev/icons?i=cs" height="42" alt="C#"/>
 <img src="https://skillicons.dev/icons?i=php" height="42" alt="PHP"/>
+<img src="https://skillicons.dev/icons?i=py" height="42" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="42" alt="SQL / PostgreSQL"/>
 
 **Front-end**
 <br>
